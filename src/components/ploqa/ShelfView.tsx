@@ -88,7 +88,7 @@ export function ShelfView({ basket: _basket, addToBasket }: Props) {
       {/* Shelf image with rings */}
       <div className="relative w-full mx-auto">
         <img
-          src="https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=800&auto=format&fit=crop"
+          src="/0b486b8c-2a35-4c95-ae3d-507e01140e81.webp"
           alt="Supermarket shelf"
           className="w-full block"
         />
